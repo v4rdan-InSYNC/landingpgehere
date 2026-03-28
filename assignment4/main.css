@@ -91,7 +91,7 @@ body{
       margin-bottom: 30px;
     }
 
-    .moves{
+    .movement{
       display: flex;
       gap: 16px;
       flex-wrap: wrap;
